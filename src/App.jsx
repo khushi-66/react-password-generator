@@ -27,7 +27,7 @@ pass  += str.charAt(char);
 const passwordRef=useRef(null);
 const copyPasswordToClipBoard=useCallback(()=>{
   passwordRef.current?.select();
-  passwordRef.current?.setSelectionRange(0,9);
+  passwordRef.current?.setSelectionRange(0,100);
      window.navigator.clipboard.writeText(password)
 },[password])
 
