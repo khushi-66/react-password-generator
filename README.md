@@ -1,16 +1,111 @@
-# React + Vite
+# 🔐 React Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-Fast-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Currently, two official plugins are available:
+A simple and responsive **Password Generator Web Application** built using React that allows users to create strong, secure passwords with customizable options.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 **Live Demo:** https://khushi-66.github.io/react-password-generator/  
+🔗 **GitHub Repository:** https://github.com/khushi-66/react-password-generator  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Overview
+
+- Developed a secure password generator using React  
+- Implemented dynamic password length, uppercase, lowercase, numbers, and symbols options  
+- Added copy-to-clipboard functionality for user convenience  
+- Optimized performance using React Hooks (useState, useEffect)  
+- Designed mobile-friendly UI for cross-device usability  
+- Deployed application using GitHub Pages  
+
+---
+
+## 📸 Screenshots
+
+### 🔹 Home Page  
+![Home Screenshot](./screenshots/home.png)
+
+### 🔹 Options Selected  
+![Options Screenshot](./screenshots/options.png)
+
+### 🔹 Generated Password  
+![Generated Password Screenshot](./screenshots/generated.png)
+
+### 🔹 Mobile View  
+![Mobile Screenshot](./screenshots/mobile.jpeg)
+
+---
+
+## ✨ Features
+
+- 🔒 Generate strong passwords dynamically  
+- ⚡ Real-time password preview  
+- 📋 Copy password to clipboard  
+- 📱 Fully responsive design (desktop + mobile)  
+- 🌐 Deployed on GitHub Pages for public access  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **Styling:** CSS / Tailwind  
+- **Build Tool:** Vite  
+
+---
+
+## 📂 Project Structure
+
+
+react-password-generator/
+│── public/
+│── src/
+│ ├── components/
+│ ├── hooks/
+│ ├── App.jsx
+│ └── main.jsx
+│── screenshots/
+│── package.json
+│── assets/
+│── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/khushi-66/react-password-generator.git
+Navigate to project folder
+cd react-password-generator
+Install dependencies
+npm install
+Run the app
+npm run dev
+📌 Future Improvements
+🔐 Add password strength meter with colors
+⭐ Save favorite generated passwords
+🌐 Multi-language support
+💾 Export passwords securely
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👩‍💻 Author
+
+Khushi Sahu
+🔗 GitHub: https://github.com/khushi-66
+
+⭐ If you like this project, don’t forget to star the repo!
