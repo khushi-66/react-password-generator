@@ -19,7 +19,7 @@ A modern and secure **Password Generator Web Application** built using **React**
 
 ## 🎥 Live Preview
 
-![App Demo](./screenshots/demo.gif)
+![App Demo](./screenshot/demo.gif)
 
 ---
 
@@ -50,19 +50,19 @@ It highlights:
 
 ### 🏠 Home Interface
 
-![Home](./screenshots/home.jpeg)
+![Home](./screenshot/home.jpeg)
 
 ### ⚙️ Custom Options
 
-![Options](./screenshots/options.jpeg)
+![Options](./screenshot/options.jpeg)
 
 ### 🔑 Generated Password
 
-![Password](./screenshots/copyclipboard.jpeg)
+![Password](./screenshot/copyclipboard.jpeg)
 
 ### 📱 Mobile View
 
-![Mobile](./screenshots/mobile.jpeg)
+![Mobile](./screenshot/mobile.jpeg)
 
 ---
 
