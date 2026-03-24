@@ -29,13 +29,13 @@ A simple and responsive **Password Generator Web Application** built using React
 ## 📸 Screenshots
 
 ### 🔹 Home Page  
-![Home Screenshot](./screenshots/home.png)
+![Home Screenshot](./screenshots/home.jpeg)
 
 ### 🔹 Options Selected  
-![Options Screenshot](./screenshots/options.png)
+![Options Screenshot](./screenshots/options.jpeg)
 
 ### 🔹 Generated Password  
-![Generated Password Screenshot](./screenshots/generated.png)
+![Generated Password Screenshot](./screenshots/copyclipboard.jpeg)
 
 ### 🔹 Mobile View  
 ![Mobile Screenshot](./screenshots/mobile.jpeg)
